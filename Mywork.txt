@@ -1,0 +1,15 @@
+My Associate ID: 844514
+
+Other team members:
+844536,844514,844539,844535,844588
+
+Team lead: 844588
+
+My Role:
+1. In developing the Home page with rounded logo, sidebar and navbar with a button pointing to next page.
+2. Also included nav bar and sidebar in all the pages.
+3. Created seperate CSS file.
+
+My development files:
+1.index.html
+2.Mystyle.css
